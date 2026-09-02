@@ -1,0 +1,56 @@
+Ownership of the Pipelines for Tokenized U.S. Assets
+The “pipelines” you’re referring to are the interbank and blockchain settlement systems that will move tokenized U.S. assets — such as tokenized Treasuries, deposits, and other real-world 
+assets — in near real time.
+
+1. For the Ondo/Kinexys/Mastercard/Ripple pilot (tokenized U.S. Treasuries)
+In the May 2026 cross‑border settlement, the XRP Ledger handled the on‑chain asset movement, Mastercard’s Multi‑Token Network (MTN) routed payment instructions, and Kinexys by J.P. Morgan 
+delivered the dollar leg via J.P. Morgan’s correspondent banking network 
+genfinity.io
+genfinity.io
+.
+
+Kinexys is owned and operated by J.P. Morgan.
+
+Mastercard is a global payments company, so its MTN is owned by Mastercard.
+
+The XRP Ledger is maintained by Ripple.
+Thus, in this specific pilot, the “pipelines” are owned by Ripple, Mastercard, and J.P. Morgan.
+
+2. For the Cari Network (tokenized bank deposits)
+The Cari Network is a permissioned blockchain platform for tokenized FDIC‑eligible deposits, with Fireblocks providing the operational infrastructure and ZKsync Prividium handling the 
+blockchain layer 
+Crypto Briefing
+Crypto Briefing
+.
+
+Fireblocks is a private blockchain infrastructure company.
+
+ZKsync Prividium is a Layer‑2 blockchain protocol.
+The network is driven by Eugene Ludwig and supported by six design partner banks (Huntington, First Horizon, M&T Bank, KeyBank, Old National, SouthState), but the underlying technology is 
+owned by Fireblocks and ZKsync.
+
+3. For the shared bank deposit token network (JPMorgan, Bank of America, Citi, Wells Fargo)
+This is a joint initiative by the four major U.S. banks, operated by The Clearing House — the payments company they already own together 
+Forbes
+Forbes
+.
+
+The Clearing House is the owner of the shared ledger and settlement infrastructure.
+
+The banks are the participants and operators, but the pipeline is controlled by The Clearing House.
+Summary table:
+
+Pipeline / Network	
+Owner / Operator
+
+Ondo/Kinexys/Mastercard/Ripple pilot	
+Ripple, Mastercard, J.P. Morgan
+
+Cari Network	
+Fireblocks, ZKsync Prividium
+
+Shared bank deposit token network	
+The Clearing House (owned by JPMorgan, Bank of America, Citi, Wells Fargo)
+
+In short, the ownership depends on the specific tokenized asset and settlement path: Ripple, Mastercard, and J.P. Morgan for the Ondo pilot; Fireblocks and ZKsync for Cari Network; and 
+The Clearing House for the shared bank deposit token network.
